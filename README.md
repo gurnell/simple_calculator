@@ -15,4 +15,5 @@ The user-defined functions multiply(), divide(), add(), and subtract() evaluate 
 
 The output:
 
-![Screenshot (4)](https://github.com/gurnell/simple_calculator/assets/82497047/4c03385f-c1b6-4b5d-9819-769bcd1a4d03)
+![Screenshot (4)](https://github.com/gurnell/simple_calculator/assets/82497047/1ac5629e-55e4-472a-a8ca-82690ceee543)
+
